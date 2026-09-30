@@ -1,0 +1,17 @@
+# Large test files
+*.bin
+
+# Files received by the server
+received_*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# OS/editor files
+.DS_Store
+.vscode/
